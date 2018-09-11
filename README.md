@@ -23,9 +23,6 @@ Push your answer to this Github repo as a feature branch and create a pull reque
 * Maven
 * cURL
   
-### Deployment
-If you whiz through this sample, try adding a deployment.   We are a Docker and AWS shop.  Getting something into an AWS or Heroku, or whatever you're comfortable with will be an "A+"
-
 ### Project hints and questions
 * Stuck getting started?
   * The official Spring Boot "hello world" example is a great starting point.
