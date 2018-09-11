@@ -6,7 +6,8 @@ We have provided a webservice that provides a "message of the day", similar to w
 
 Also, a rogue developer has left the code base broken.  To get anything done, you're doing to have to fix the tests first! And, no, -DskipTests is not a solution!
 
-Push your answer to this Github repo as a feature branch and create a pull request so we know you're done.
+### To submit your solution
+Push your answer to this Github repo as a feature branch and create a pull request to master so we know you're done.
 
 ### Getting Started
 * To compile
